@@ -1,0 +1,10 @@
+C:\Users\Am\source\repos\Window Login\bin\Debug\Window Login.exe.config
+C:\Users\Am\source\repos\Window Login\bin\Debug\Window Login.exe
+C:\Users\Am\source\repos\Window Login\bin\Debug\Window Login.pdb
+C:\Users\Am\source\repos\Window Login\obj\Debug\Window Login.csprojAssemblyReference.cache
+C:\Users\Am\source\repos\Window Login\obj\Debug\Window_Login.Form1.resources
+C:\Users\Am\source\repos\Window Login\obj\Debug\Window_Login.Properties.Resources.resources
+C:\Users\Am\source\repos\Window Login\obj\Debug\Window Login.csproj.GenerateResource.cache
+C:\Users\Am\source\repos\Window Login\obj\Debug\Window Login.csproj.CoreCompileInputs.cache
+C:\Users\Am\source\repos\Window Login\obj\Debug\Window Login.exe
+C:\Users\Am\source\repos\Window Login\obj\Debug\Window Login.pdb
